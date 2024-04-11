@@ -1,3 +1,6 @@
+// Solution 1: 55ms - 47.49MB
+// Solution 2: 43ms - 47.50MB
+
 public class Solution
 {
     // Solution 2
